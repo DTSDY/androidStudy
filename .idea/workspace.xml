@@ -9,6 +9,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -44,6 +45,7 @@
       <workItem from="1613625665593" duration="270000" />
       <workItem from="1613626325319" duration="12000" />
       <workItem from="1614231426447" duration="112000" />
+      <workItem from="1614669834756" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="新建fkm项目">
       <created>1614231456342</created>
@@ -66,15 +68,34 @@
       <option name="project" value="LOCAL" />
       <updated>1614231505244</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="清空 所有文件">
+      <created>1614669856613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614669856613</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建fkm项目" />
     <MESSAGE value="更新忽略文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新忽略文件" />
+    <MESSAGE value="清空 所有文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="清空 所有文件" />
   </component>
 </project>
