@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5a7b44a-7e4b-4fb5-85da-5c3bbb67ce65" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="d5a7b44a-7e4b-4fb5-85da-5c3bbb67ce65" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +43,7 @@
       <updated>1613625664065</updated>
       <workItem from="1613625665593" duration="270000" />
       <workItem from="1613626325319" duration="12000" />
-      <workItem from="1614231426447" duration="42000" />
+      <workItem from="1614231426447" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="新建fkm项目">
       <created>1614231456342</created>
@@ -54,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614231456342</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新忽略文件">
+      <created>1614231483802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614231483802</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新忽略文件">
+      <created>1614231505244</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614231505244</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,6 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建fkm项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建fkm项目" />
+    <MESSAGE value="更新忽略文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新忽略文件" />
   </component>
 </project>
