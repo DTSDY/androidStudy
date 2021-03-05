@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5a7b44a-7e4b-4fb5-85da-5c3bbb67ce65" name="Default Changelist" comment="页面的相关使用" />
+    <list default="true" id="d5a7b44a-7e4b-4fb5-85da-5c3bbb67ce65" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +47,7 @@
       <workItem from="1614231426447" duration="112000" />
       <workItem from="1614669834756" duration="78000" />
       <workItem from="1614675179095" duration="281000" />
+      <workItem from="1614823261854" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="新建fkm项目">
       <created>1614231456342</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614675216735</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="组件相关使用">
+      <created>1614823291088</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614823291088</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +114,7 @@
     <MESSAGE value="更新忽略文件" />
     <MESSAGE value="清空 所有文件" />
     <MESSAGE value="页面的相关使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="页面的相关使用" />
+    <MESSAGE value="组件相关使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="组件相关使用" />
   </component>
 </project>
