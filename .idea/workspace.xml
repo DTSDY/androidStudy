@@ -48,6 +48,7 @@
       <workItem from="1614669834756" duration="78000" />
       <workItem from="1614675179095" duration="281000" />
       <workItem from="1614823261854" duration="63000" />
+      <workItem from="1614911682946" duration="660000" />
     </task>
     <task id="LOCAL-00001" summary="新建fkm项目">
       <created>1614231456342</created>
@@ -91,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614823291088</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="聊天界面初构">
+      <created>1614911774710</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614911774710</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +123,7 @@
     <MESSAGE value="清空 所有文件" />
     <MESSAGE value="页面的相关使用" />
     <MESSAGE value="组件相关使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="组件相关使用" />
+    <MESSAGE value="聊天界面初构" />
+    <option name="LAST_COMMIT_MESSAGE" value="聊天界面初构" />
   </component>
 </project>
